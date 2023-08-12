@@ -32,6 +32,7 @@ Metasploit
 
 يتوفر Metasploit عبر مثبتات مصدر مفتوح مباشرة من موقع Rapid7. بالإضافة إلى أحدث إصدار من متصفحات Chrome أو Firefox أو Explorer، فإن متطلبات النظام الدنيا هي:
 
+
 Ubuntu Linux 14.04 or 16.04 LTS (recommended)
 Windows Server 2008 or 2012 R2
 Windows 7 SP1+, 8.1, or 10
